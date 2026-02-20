@@ -16,7 +16,7 @@
 </a>
 
 ### My Space
-- **Backend & Infra** — Node.js/Express, Rust/Go services, APIs for on-chain data
+- **Backend & Infra** — Node.js/Express, Rust/Go services, Python/Django, APIs for on-chain data
 - **Frontend** — React, Next.js, TypeScript, Tailwind CSS, Mobile APP interfaces
 - **Web3 & Blockchain Integration** — @solana/web3.js, ethers.js, wallet adapters, wagmi
 
